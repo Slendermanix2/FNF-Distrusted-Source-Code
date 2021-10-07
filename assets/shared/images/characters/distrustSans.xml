@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SansRemaster.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sans Down0000" x="0" y="0" width="788" height="667"/>
+	<SubTexture name="Sans Down0001" x="0" y="0" width="788" height="667"/>
+	<SubTexture name="Sans Down0002" x="788" y="0" width="788" height="667"/>
+	<SubTexture name="Sans Down0003" x="788" y="0" width="788" height="667"/>
+	<SubTexture name="Sans Down0004" x="788" y="0" width="788" height="667"/>
+	<SubTexture name="Sans Idle0004" x="4817" y="0" width="792" height="662"/>
+	<SubTexture name="Sans Idle0005" x="5609" y="0" width="788" height="662"/>
+	<SubTexture name="Sans Idle0006" x="6397" y="0" width="788" height="662"/>
+	<SubTexture name="Sans Idle0007" x="7185" y="0" width="788" height="662"/>
+	<SubTexture name="Sans Idle0008" x="0" y="690" width="788" height="662"/>
+	<SubTexture name="Sans Idle0009" x="788" y="690" width="788" height="662"/>
+	<SubTexture name="Sans Idle0010" x="1576" y="690" width="788" height="662"/>
+	<SubTexture name="Sans Idle0011" x="2364" y="690" width="788" height="662"/>
+	<SubTexture name="Sans Idle0012" x="3152" y="690" width="788" height="662"/>
+	<SubTexture name="Sans Idle0013" x="3940" y="690" width="788" height="662"/>
+	<SubTexture name="Sans Idle0014" x="4728" y="690" width="788" height="662"/>
+	<SubTexture name="Sans Idle0015" x="5516" y="690" width="788" height="662"/>
+	<SubTexture name="Sans Idle0016" x="6304" y="690" width="788" height="662"/>
+	<SubTexture name="Sans Idle0017" x="7092" y="690" width="788" height="662"/>
+	<SubTexture name="Sans Idle0018" x="0" y="1352" width="788" height="662"/>
+	<SubTexture name="Sans Idle0019" x="788" y="1352" width="788" height="662"/>
+	<SubTexture name="Sans Idle0020" x="1576" y="1352" width="788" height="662"/>
+	<SubTexture name="Sans Idle0021" x="2364" y="1352" width="788" height="662"/>
+	<SubTexture name="Sans Idle0022" x="3152" y="1352" width="788" height="662"/>
+	<SubTexture name="Sans Idle0023" x="3940" y="1352" width="788" height="662"/>
+	<SubTexture name="Sans Left0000" x="4728" y="1352" width="788" height="662"/>
+	<SubTexture name="Sans Left0001" x="4728" y="1352" width="788" height="662"/>
+	<SubTexture name="Sans Left0002" x="5516" y="1352" width="788" height="662"/>
+	<SubTexture name="Sans Left0003" x="5516" y="1352" width="788" height="662"/>
+	<SubTexture name="Sans Left0004" x="5516" y="1352" width="788" height="662"/>
+	<SubTexture name="Sans Right0000" x="6304" y="1352" width="650" height="662"/>
+	<SubTexture name="Sans Right0001" x="6954" y="1352" width="650" height="662"/>
+	<SubTexture name="Sans Right0002" x="0" y="2014" width="650" height="662"/>
+	<SubTexture name="Sans Right0003" x="650" y="2014" width="650" height="662"/>
+	<SubTexture name="Sans Right0004" x="1300" y="2014" width="650" height="662"/>
+	<SubTexture name="Sans Up0000" x="1950" y="2014" width="788" height="911"/>
+	<SubTexture name="Sans Up0001" x="1950" y="2014" width="788" height="911"/>
+	<SubTexture name="Sans Up0002" x="2738" y="2014" width="788" height="906"/>
+	<SubTexture name="Sans Up0003" x="2738" y="2014" width="788" height="906"/>
+	<SubTexture name="Sans Up0004" x="2738" y="2014" width="788" height="906"/>
+</TextureAtlas>

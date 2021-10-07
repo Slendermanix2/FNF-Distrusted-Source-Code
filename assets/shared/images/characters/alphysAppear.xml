@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="AlphysAppear.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Alphys Heart0000" x="0" y="0" width="152" height="152"/>
+	<SubTexture name="Alphys Heart0001" x="152" y="0" width="150" height="155"/>
+	<SubTexture name="Alphys Heart0002" x="302" y="0" width="146" height="161"/>
+	<SubTexture name="Alphys Heart0003" x="448" y="0" width="146" height="159"/>
+	<SubTexture name="Alphys Heart0004" x="594" y="0" width="156" height="153"/>
+	<SubTexture name="Alphys Heart0005" x="750" y="0" width="160" height="147"/>
+	<SubTexture name="Alphys Heart0006" x="910" y="0" width="161" height="144"/>
+	<SubTexture name="Alphys Heart0007" x="1071" y="0" width="152" height="156"/>
+	<SubTexture name="Alphys Heart0008" x="1223" y="0" width="153" height="155"/>
+	<SubTexture name="Alphys Heart0009" x="1376" y="0" width="151" height="151"/>
+	<SubTexture name="Alphys Heart0010" x="1376" y="0" width="151" height="151"/>
+	<SubTexture name="Alphys Heart0011" x="1527" y="0" width="180" height="171"/>
+	<SubTexture name="Alphys Heart0012" x="1707" y="0" width="199" height="189"/>
+	<SubTexture name="Alphys Heart0013" x="1906" y="0" width="225" height="214"/>
+	<SubTexture name="Alphys Heart0014" x="2131" y="0" width="242" height="229"/>
+	<SubTexture name="Alphys Heart0015" x="2373" y="0" width="276" height="262"/>
+	<SubTexture name="Alphys Heart0016" x="2649" y="0" width="151" height="151"/>
+	<SubTexture name="Alphys Heart0017" x="2649" y="0" width="151" height="151"/>
+	<SubTexture name="Alphys Appear0000" x="2800" y="0" width="743" height="951"/>
+	<SubTexture name="Alphys Appear0001" x="2800" y="0" width="743" height="951"/>
+	<SubTexture name="Alphys Appear0002" x="2800" y="0" width="743" height="951"/>
+	<SubTexture name="Alphys Appear0003" x="2800" y="0" width="743" height="951"/>
+	<SubTexture name="Alphys Appear0004" x="2800" y="0" width="743" height="951"/>
+	<SubTexture name="Alphys Appear0005" x="2800" y="0" width="743" height="951"/>
+	<SubTexture name="Alphys Appear0006" x="0" y="951" width="741" height="961"/>
+	<SubTexture name="Alphys Appear0007" x="0" y="951" width="741" height="961"/>
+	<SubTexture name="Alphys Appear0008" x="741" y="951" width="745" height="958"/>
+	<SubTexture name="Alphys Appear0009" x="741" y="951" width="745" height="958"/>
+	<SubTexture name="Alphys Appear0010" x="1486" y="951" width="742" height="948"/>
+	<SubTexture name="Alphys Appear0011" x="1486" y="951" width="742" height="948"/>
+	<SubTexture name="Alphys Appear0012" x="2228" y="951" width="746" height="943"/>
+	<SubTexture name="Alphys Appear0013" x="2228" y="951" width="746" height="943"/>
+	<SubTexture name="Alphys Appear0014" x="2974" y="951" width="743" height="951"/>
+	<SubTexture name="Alphys Appear0015" x="2974" y="951" width="743" height="951"/>
+	<SubTexture name="Alphys Appear0016" x="2974" y="951" width="743" height="951"/>
+</TextureAtlas>

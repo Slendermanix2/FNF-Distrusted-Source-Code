@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Alphys.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Alphys Down0000" x="0" y="0" width="1043" height="870"/>
+	<SubTexture name="Alphys Down0001" x="0" y="0" width="1043" height="870"/>
+	<SubTexture name="Alphys Down0002" x="1043" y="0" width="1049" height="873"/>
+	<SubTexture name="Alphys Down0003" x="1043" y="0" width="1049" height="873"/>
+	<SubTexture name="Alphys Down0004" x="1043" y="0" width="1049" height="873"/>
+	<SubTexture name="Alphys Idle0000" x="2092" y="0" width="741" height="961"/>
+	<SubTexture name="Alphys Idle0001" x="2092" y="0" width="741" height="961"/>
+	<SubTexture name="Alphys Idle0002" x="2833" y="0" width="745" height="958"/>
+	<SubTexture name="Alphys Idle0003" x="2833" y="0" width="745" height="958"/>
+	<SubTexture name="Alphys Idle0004" x="0" y="961" width="742" height="948"/>
+	<SubTexture name="Alphys Idle0005" x="0" y="961" width="742" height="948"/>
+	<SubTexture name="Alphys Idle0006" x="742" y="961" width="746" height="943"/>
+	<SubTexture name="Alphys Idle0007" x="742" y="961" width="746" height="943"/>
+	<SubTexture name="Alphys Idle0008" x="1488" y="961" width="743" height="951"/>
+	<SubTexture name="Alphys Idle0009" x="1488" y="961" width="743" height="951"/>
+	<SubTexture name="Alphys Idle0010" x="1488" y="961" width="743" height="951"/>
+	<SubTexture name="Alphys Left0000" x="2231" y="961" width="833" height="841"/>
+	<SubTexture name="Alphys Left0001" x="2231" y="961" width="833" height="841"/>
+	<SubTexture name="Alphys Left0002" x="3064" y="961" width="831" height="841"/>
+	<SubTexture name="Alphys Left0003" x="3064" y="961" width="831" height="841"/>
+	<SubTexture name="Alphys Left0004" x="3064" y="961" width="831" height="841"/>
+	<SubTexture name="Alphys Right0000" x="0" y="1912" width="1181" height="1007"/>
+	<SubTexture name="Alphys Right0001" x="1181" y="1912" width="1180" height="1028"/>
+	<SubTexture name="Alphys Right0002" x="2361" y="1912" width="1268" height="1028"/>
+	<SubTexture name="Alphys Right0003" x="2361" y="1912" width="1268" height="1028"/>
+	<SubTexture name="Alphys Right0004" x="0" y="2940" width="1208" height="1000"/>
+	<SubTexture name="Alphys Right0005" x="1208" y="2940" width="1206" height="1000"/>
+	<SubTexture name="Alphys Right0006" x="1208" y="2940" width="1206" height="1000"/>
+	<SubTexture name="Alphys Up0000" x="2414" y="2940" width="775" height="922"/>
+	<SubTexture name="Alphys Up0001" x="2414" y="2940" width="775" height="922"/>
+	<SubTexture name="Alphys Up0002" x="3189" y="2940" width="754" height="940"/>
+	<SubTexture name="Alphys Up0003" x="3189" y="2940" width="754" height="940"/>
+	<SubTexture name="Alphys Up0004" x="3189" y="2940" width="754" height="940"/>
+</TextureAtlas>
