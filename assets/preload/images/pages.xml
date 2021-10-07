@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pages.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pageOne basic0000" x="0" y="0" width="217" height="70"/>
+	<SubTexture name="pageOne basic0001" x="0" y="0" width="217" height="70" />
+	<SubTexture name="pageOne basic0002" x="0" y="0" width="217" height="70" />
+	<SubTexture name="pageOne white0000" x="217" y="0" width="217" height="70"/>
+	<SubTexture name="pageOne white0001" x="217" y="0" width="217" height="70"/>
+	<SubTexture name="pageOne white0002" x="217" y="0" width="217" height="70"/>
+	<SubTexture name="pageTwo basic0000" x="443" y="0" width="217" height="70"/>
+	<SubTexture name="pageTwo basic0001" x="443" y="0" width="217" height="70"/>
+	<SubTexture name="pageTwo basic0002" x="443" y="0" width="217" height="70"/>
+	<SubTexture name="pageTwo white0000" x="669" y="0" width="217" height="70"/>
+	<SubTexture name="pageTwo white0001" x="669" y="0" width="217" height="70"/>
+	<SubTexture name="pageTwo white0002" x="669" y="0" width="217" height="70"/>
+	<SubTexture name="pageThree basic0000" x="886" y="0" width="217" height="70"/>
+	<SubTexture name="pageThree basic0001" x="886" y="0" width="217" height="70"/>
+	<SubTexture name="pageThree basic0002" x="886" y="0" width="217" height="70"/>
+	<SubTexture name="pageThree white0000" x="1103" y="0" width="217" height="70"/>
+	<SubTexture name="pageThree white0001" x="1103" y="0" width="217" height="70"/>
+	<SubTexture name="pageThree white0002" x="1103" y="0" width="217" height="70"/>
+</TextureAtlas>

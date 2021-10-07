@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="poisonNotes.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="purple alone0000" x="0" y="13" width="164" height="151"/>
+	<SubTexture name="blue alone0000" x="175" y="0" width="147" height="169"/>
+	<SubTexture name="green alone0000" x="339" y="13" width="147" height="170"/>
+	<SubTexture name="red alone0000" x="491" y="0" width="169" height="150"/>
+</TextureAtlas>

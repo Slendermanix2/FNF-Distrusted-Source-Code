@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="disttrustsans.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="image0_0" x="1281" y="240" width="427" height="240"/>
+	<SubTexture name="image0_1" x="2135" y="480" width="427" height="240"/>
+	<SubTexture name="image0_2" x="2989" y="720" width="427" height="240"/>
+	<SubTexture name="image0_3" x="3416" y="960" width="427" height="240"/>
+	<SubTexture name="image0_4" x="0" y="1200" width="427" height="240"/>
+	<SubTexture name="image0_5" x="427" y="1200" width="427" height="240"/>
+	<SubTexture name="image0_6" x="854" y="1200" width="427" height="240"/>
+	<SubTexture name="image0_7" x="1281" y="1200" width="427" height="240"/>
+	<SubTexture name="image0_8" x="854" y="0" width="427" height="240"/>
+	<SubTexture name="image0_9" x="1281" y="0" width="427" height="240"/>
+	<SubTexture name="image0_10" x="1708" y="0" width="427" height="240"/>
+	<SubTexture name="image0_11" x="2135" y="0" width="427" height="240"/>
+	<SubTexture name="image0_12" x="2562" y="0" width="427" height="240"/>
+	<SubTexture name="image0_13" x="2989" y="0" width="427" height="240"/>
+	<SubTexture name="image0_14" x="3416" y="0" width="427" height="240"/>
+	<SubTexture name="image0_15" x="0" y="240" width="427" height="240"/>
+	<SubTexture name="image0_16" x="427" y="240" width="427" height="240"/>
+	<SubTexture name="image0_17" x="854" y="240" width="427" height="240"/>
+	<SubTexture name="image0_18" x="1708" y="240" width="427" height="240"/>
+	<SubTexture name="image0_19" x="2135" y="240" width="427" height="240"/>
+	<SubTexture name="image0_20" x="2562" y="240" width="427" height="240"/>
+	<SubTexture name="image0_21" x="2989" y="240" width="427" height="240"/>
+	<SubTexture name="image0_22" x="3416" y="240" width="427" height="240"/>
+	<SubTexture name="image0_23" x="0" y="480" width="427" height="240"/>
+	<SubTexture name="image0_24" x="427" y="480" width="427" height="240"/>
+	<SubTexture name="image0_25" x="854" y="480" width="427" height="240"/>
+	<SubTexture name="image0_26" x="1281" y="480" width="427" height="240"/>
+	<SubTexture name="image0_27" x="1708" y="480" width="427" height="240"/>
+	<SubTexture name="image0_28" x="2562" y="480" width="427" height="240"/>
+	<SubTexture name="image0_29" x="2989" y="480" width="427" height="240"/>
+	<SubTexture name="image0_30" x="3416" y="480" width="427" height="240"/>
+	<SubTexture name="image0_31" x="0" y="720" width="427" height="240"/>
+	<SubTexture name="image0_32" x="427" y="720" width="427" height="240"/>
+	<SubTexture name="image0_33" x="854" y="720" width="427" height="240"/>
+	<SubTexture name="image0_34" x="1281" y="720" width="427" height="240"/>
+	<SubTexture name="image0_35" x="1708" y="720" width="427" height="240"/>
+	<SubTexture name="image0_36" x="2135" y="720" width="427" height="240"/>
+	<SubTexture name="image0_37" x="2562" y="720" width="427" height="240"/>
+	<SubTexture name="image0_38" x="3416" y="720" width="427" height="240"/>
+	<SubTexture name="image0_39" x="0" y="960" width="427" height="240"/>
+	<SubTexture name="image0_40" x="427" y="960" width="427" height="240"/>
+	<SubTexture name="image0_41" x="854" y="960" width="427" height="240"/>
+	<SubTexture name="image0_42" x="1281" y="960" width="427" height="240"/>
+	<SubTexture name="image0_43" x="1708" y="960" width="427" height="240"/>
+	<SubTexture name="image0_44" x="2135" y="960" width="427" height="240"/>
+	<SubTexture name="image0_45" x="2562" y="960" width="427" height="240"/>
+	<SubTexture name="image0_46" x="2989" y="960" width="427" height="240"/>
+</TextureAtlas>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lights off.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FLESHLIGHTS Instanz 10000" x="8" y="8" width="1777" height="281" pivotX="-253.15" pivotY="0"/>
+</TextureAtlas>
